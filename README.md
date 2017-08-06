@@ -2,4 +2,4 @@
 
 feature-A
 Feature-B
-feature-C
+feature-C plus
